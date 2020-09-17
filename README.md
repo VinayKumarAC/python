@@ -1,2 +1,2 @@
 # python
-My First git project 
+Learning Phase
